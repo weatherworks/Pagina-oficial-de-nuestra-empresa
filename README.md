@@ -176,7 +176,7 @@
 </head>
 <body>
     <header>
-        Guía Completa para Crear una Estación Meteorológica
+Estación Meteorologica de Weather Works Engineering
     </header>
 
     <div class="container">
@@ -209,7 +209,7 @@
         </div>
 
         <div class="video-container">
-            <a href="https://weatherworks.github.io/graficas-de-las-pagina-de-weatherwork/" class="highlighted-link">Ver Gráficas y Estadísticas</a>
+            <a href="[https://weatherworks.github.io/graficas-de-las-pagina-de-weatherwork/](https://weatherworks.github.io/Graficas-Oficiales-/)" class="highlighted-link">Ver Gráficas y Estadísticas</a>
         </div>
 
         <div class="box">
