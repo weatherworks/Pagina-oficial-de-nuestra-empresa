@@ -209,7 +209,7 @@ Estación Meteorologica de Weather Works Engineering
         </div>
 
         <div class="video-container">
-            <a href="https://weatherworks.github.io/Graficas-Oficiales-/">Ver Gráficas y Estadísticas</a>
+            <a href="[https://weatherworks.github.io/Graficas-Oficiales-/](https://weatherworks.github.io/Graficas-Oficiales-/)">Ver Gráficas y Estadísticas</a>
         </div>
 
         <div class="box">
