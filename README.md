@@ -187,17 +187,17 @@ Estación Meteorologica de Weather Works Engineering
 
         <div class="box">
             <p><strong>Beneficios:</strong> Al instalar tu propia estación meteorológica, tendrás acceso a datos en tiempo real sobre la temperatura, humedad, presión atmosférica y viento en tu localidad. Esto te permitirá anticiparte a cambios climáticos, planificar tus actividades, proteger tu hogar y contribuir a la ciencia comunitaria.</p>
-            <img src="https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/464591697_122119379474521478_1314294916555894626_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=IaVfcfnWHRsQ7kNvgHWy2Qi&amp;_nc_zt=23&amp;_nc_ht=scontent.fpei2-1.fna&amp;_nc_gid=AxXGBJJb9s1hDZy_3gG2iKl&amp;oh=00_AYDNZyY1jm2eABYwE_OGkVY_P8pFPz2OW6xmO4pzs08OMA&amp;oe=6731A722" alt="Beneficios de la Estación">
+            <img src="https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/464591697_122119379474521478_1314294916555894626_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0GBQJWIRTbkQ7kNvgEc1aNq&_nc_zt=23&_nc_ht=scontent.fpei2-1.fna&_nc_gid=ATqfaF4GdZI_NT1sagNSNY_&oh=00_AYBVeGPkQtNlgUUJiRjYKZLIgcZc_d6IJsXrN0JWrb3Z-A&oe=673A7122" alt="Beneficios de la Estación">
         </div>
 
         <div class="box">
             <p><strong>Control sobre tu entorno:</strong> Imagina poder monitorear las condiciones del clima y optimizar el uso de energía en tu hogar, como ajustar la calefacción o el aire acondicionado según las condiciones reales. ¡Es una gran ventaja en eficiencia y ahorro!</p>
-            <img src="https://scontent.fpei2-2.fna.fbcdn.net/v/t39.30808-6/464519649_122119379690521478_4205827883713381775_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Ql8Fej7QjjsQ7kNvgFf4boT&amp;_nc_zt=23&amp;_nc_ht=scontent.fpei2-2.fna&amp;_nc_gid=AxXGBJJb9s1hDZy_3gG2iKl&amp;oh=00_AYDEqXAs0Upw4qeSDB67ZVM6AzMP_1nv6efe934cHluObw&amp;oe=6731B354" alt="Ahorro de Energía">
+            <img src="https://scontent.fpei2-2.fna.fbcdn.net/v/t39.30808-6/464519649_122119379690521478_4205827883713381775_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KHfXGElahE4Q7kNvgGloM6t&_nc_zt=23&_nc_ht=scontent.fpei2-2.fna&_nc_gid=ATqfaF4GdZI_NT1sagNSNY_&oh=00_AYDhNfeLi3l8A-KGOOtwpZOfnlG6AlDYGaZFcfYsMF9PyQ&oe=673A7D54" alt="Ahorro de Energía">
         </div>
 
         <div class="image-link">
             <p>Esquema de una estación meteorológica:</p>
-            <img src="https://scontent.fpei2-2.fna.fbcdn.net/v/t39.30808-6/464572777_122119380020521478_6191685006159723792_n.jpg?stp=dst-jpg_s960x960&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=lwX8Nc4la6AQ7kNvgFJvhRM&amp;_nc_zt=23&amp;_nc_ht=scontent.fpei2-2.fna&amp;_nc_gid=AFZrnOGjEbHv7k3NHUNomer&amp;oh=00_AYCt0f_mr46L0s4TnN5OZZFbDyu-ypCJYGFn-l_AlULVcQ&amp;oe=67319B15" alt="Esquema de Estación Meteorológica">
+            <img src="https://scontent.fpei2-2.fna.fbcdn.net/v/t39.30808-6/464572777_122119380020521478_6191685006159723792_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g9a87kY-X_8Q7kNvgFlqhlk&_nc_zt=23&_nc_ht=scontent.fpei2-2.fna&_nc_gid=ASg0t_7uFZJZJ7ZDINNEtwp&oh=00_AYD19gk5xVJy-eaPQ8P2Ik5wqmtTgV_4_07PyinN8nsEBA&oe=673A6515" alt="Esquema de Estación Meteorológica">
         </div>
 
         <div class="video-container">
@@ -214,7 +214,7 @@ Estación Meteorologica de Weather Works Engineering
 
         <div class="box">
             <p><strong>Mantenimiento de la Estación:</strong> Asegúrate de que los sensores estén siempre en buen estado, realizando mantenimiento regular, especialmente si la estación está ubicada al aire libre. Cambia los componentes que se deterioren con el tiempo para mantener la precisión de los datos.</p>
-            <img src="https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/464421195_122119379912521478_1642730422400447495_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=xpCEJTowrzsQ7kNvgFBBk16&amp;_nc_zt=23&amp;_nc_ht=scontent.fpei2-1.fna&amp;_nc_gid=AxXGBJJb9s1hDZy_3gG2iKl&amp;oh=00_AYCedjinA3eS8AflhRSXm7bVFrJ4vp3g83FhWYePxn6iuQ&amp;oe=6731A09E" alt="Mantenimiento de Estación">
+            <img src="https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/464421195_122119379912521478_1642730422400447495_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FbzwoMK_iRoQ7kNvgESo2zY&_nc_zt=23&_nc_ht=scontent.fpei2-1.fna&_nc_gid=ATqfaF4GdZI_NT1sagNSNY_&oh=00_AYB1sN2cWcfPo0NyXL_tKCQsIMGMa_8s9-2_ROySXWporw&oe=673A6A9E" alt="Mantenimiento de Estación">
         </div>
 
         <div class="box">
