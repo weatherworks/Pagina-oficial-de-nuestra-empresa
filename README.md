@@ -182,7 +182,7 @@ Estación Meteorologica de Weather Works Engineering
     <div class="container">
         <div class="box">
             <p><strong>Introducción:</strong> Las estaciones meteorológicas personales no solo te permiten recopilar datos sobre el clima local, sino que también ofrecen múltiples beneficios para mejorar tu entorno y tomar decisiones informadas. Conoce más sobre cómo pueden transformar tu día a día.</p>
-            <img src="WV7Z1jznecQItHpLg0joXsY3d2t0WIZzmUgCmtKsQ&amp;oe=6731A9D8]https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/464512744_122119377026521478_3827279174906785252_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r9uLY4_M4FUQ7kNvgFPVQo4&_nc_zt=23&_nc_ht=scontent.fpei2-1.fna&_nc_gid=A1okaD5t-LzOfggcs-G2W7X&oh=00_AYAQaXAG2pHUhnNKdzUiVzniv8CT0ZTySuGqjWAisPIcmw&oe=673A73D8" alt="Estación Meteorológica">
+            <img src="https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/464512744_122119377026521478_3827279174906785252_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r9uLY4_M4FUQ7kNvgFPVQo4&_nc_zt=23&_nc_ht=scontent.fpei2-1.fna&_nc_gid=A1okaD5t-LzOfggcs-G2W7X&oh=00_AYAQaXAG2pHUhnNKdzUiVzniv8CT0ZTySuGqjWAisPIcmw&oe=673A73D8" alt="Estación Meteorológica">
         </div>
 
         <div class="box">
